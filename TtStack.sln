@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TtStack.Api", "TtStack.Api\TtStack.Api.csproj", "{0727C9A0-B98A-47C9-86CB-3251143CBA5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TtStack.Domain", "TtStack.Domain\TtStack.Domain.csproj", "{2B2612FB-22CC-4EF9-A636-EF89E5AD9AB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0727C9A0-B98A-47C9-86CB-3251143CBA5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0727C9A0-B98A-47C9-86CB-3251143CBA5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0727C9A0-B98A-47C9-86CB-3251143CBA5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0727C9A0-B98A-47C9-86CB-3251143CBA5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B2612FB-22CC-4EF9-A636-EF89E5AD9AB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B2612FB-22CC-4EF9-A636-EF89E5AD9AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B2612FB-22CC-4EF9-A636-EF89E5AD9AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B2612FB-22CC-4EF9-A636-EF89E5AD9AB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

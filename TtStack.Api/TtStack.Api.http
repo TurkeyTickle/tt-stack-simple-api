@@ -1,0 +1,6 @@
+@TtStack.Api_HostAddress = http://localhost:5241
+
+GET {{TtStack.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
